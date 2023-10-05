@@ -1,4 +1,7 @@
 public abstract class Figura {
+    /*
+     * Clase abstracta Figura
+     */
     private String tipo;
 
     public Figura(String tipo){
