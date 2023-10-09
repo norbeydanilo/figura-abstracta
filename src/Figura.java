@@ -16,5 +16,9 @@ public abstract class Figura {
         this.tipo = tipo;
     }
 
+    /*
+     * Método abstracto area()
+     * Se define pero son las subclases las obligadas a implementar el método
+     */
     public abstract double area();
 }
