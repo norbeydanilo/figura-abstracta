@@ -2,9 +2,11 @@
 
 Ejemplo de aplicación de encapsulamiento, herencia y polimorfismo. Usamos clase abstracta. 
 
-- La clase Figura es abstracta y define un método abstracto area(), que debe ser implementado por las clases hijas Triangulo, Cuadrado y Ovalo. Esto permite que cada una de estas clases proporcione su propia implementación del cálculo del área.
+- La clase `Figura` es abstracta y define un método abstracto `area()`, que debe ser implementado por las clases hijas `Triangulo`, `Cuadrado` y `Ovalo`. Esto permite que cada una de estas clases proporcione su propia implementación del cálculo del área.
 
 - Podemos crecer en clases concretas (subclases) tanto como se desee.
+
+Se aplica polimorfismo dinámico (ejecución) en la sobreescritura del método.
 
 ## Diagrama de clases
 
